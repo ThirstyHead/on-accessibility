@@ -1,0 +1,19 @@
+{
+  "name": "on-accessibility",
+  "version": "0.1.0",
+  "description": "[PRESENTATION] On Accessibility: Bapu, MLK, and the Gang of 19",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/on-accessibility.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/on-accessibility/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/on-accessibility#readme"
+}
